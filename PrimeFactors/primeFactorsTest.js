@@ -1,0 +1,1 @@
+PrimeFactorsTest = TestCase("PrimeFactorsTest");
